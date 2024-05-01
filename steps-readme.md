@@ -1,7 +1,7 @@
 # Prerequisites
 * Python version 3.12.0
 * PostgreSQL version 16.1
-* .venv/Scripts/Activate.ps1  
+* .venv/Scripts/Activate.ps1  - To Activate venv in VSCode
 * API Key generated from [2factor](https://2factor.in/).
 * App Password generated from Google account, refer [Sign in with app passwords](https://support.google.com/accounts/answer/185833?hl=en).
 
